@@ -1,0 +1,47 @@
+#       _           _          _____                       __  __
+#      / \   _   _ | |_  ___  |  ___|__ _  _ __  _ __ ___  \ \/ /
+#     / _ \ | | | || __|/ _ \ | |_  / _` || '__|| '_ ` _ \  \  /
+#    / ___ \| |_| || |_| (_) ||  _|| (_| || |   | | | | | | /  \
+#   /_/   \_\\__,_| \__|\___/ |_|   \__,_||_|   |_| |_| |_|/_/\_\
+#
+
+# This is the main configuration file for the plugin.
+# This file is used to configure the plugin to your liking.
+# Everything can be edited in game with the '/autofarm' command.
+
+# To disable the plugin, set the below value to false. To enable, set to true.
+# /autofarm <enable|disable> plugin
+enabled: true
+
+# To allow crops to be auto planted, set the value to true. To disable, set to false.
+# /autofarm <enable|disable> <plant>
+wheat: true
+carrots: true
+potatoes: true
+beetroots: true
+nether-wart: true
+cocoa-beans: true
+sugar-cane: true
+cactus: true
+bamboo: true
+kelp: true
+melon: true
+pumpkin: true
+grass: true
+fern: true
+vine: true
+chorus-flower: true
+brown-mushroom: true
+red-mushroom: true
+dead-bush: true
+sweet-berries: true
+crimson-fungus: true
+warped-fungus: true
+crimson-roots: true
+warped-roots: true
+twisting-vines: true
+weeping-vines: true
+nether-sprouts: true
+
+# Do not edit, used for config versioning.
+config-version: 2

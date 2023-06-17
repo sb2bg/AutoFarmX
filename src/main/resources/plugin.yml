@@ -1,0 +1,16 @@
+name: AutoFarmX
+version: ${project.version}
+main: org.spartandevs.autofarm.AutoFarm
+authors: [ Sullivan, JP ]
+description: ${project.description}
+website: spartandevs.org
+api-version: 1.13
+
+commands:
+  autofarm:
+    description: Open the AutoFarmX GUI
+    aliases: [ autofarm, af ]
+
+permissions:
+  autofarm.gui:
+    description: Allows the player to use the AutoFarmX GUI
